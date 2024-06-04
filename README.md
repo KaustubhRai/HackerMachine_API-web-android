@@ -1,5 +1,5 @@
 # tools_API-web-android
-A Hacker Machine; tools that would be required to do VAPT of API on web and android for any hacker
+A Hacker Machine; tools that would be required to do VAPT of API, Web and Android for any hacker
 <br></br>
 
 ### Reference
